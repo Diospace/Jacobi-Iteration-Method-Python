@@ -2,7 +2,6 @@ import numpy as np
 #jacobi iteration method
 #this program is Write By Endurance ogun and is part of the Sfip program
 #CopyRight:: can be use for any of your project but one should not delete this comment or claim ownship of the program.
-#sign by the Sfip.inc
 
 def jacobi(A,B):
     print("System:")
